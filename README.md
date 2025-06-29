@@ -53,7 +53,7 @@ The platform combines **behavioral tracking**, **EULAR-based clinical logic**, a
 
 ## 📐 System Architecture
 
-![System Architecture](./diagrams/system_architecture.png)
+![System Architecture](./diagrams/new_system_architecture.png)
 
 ---
 
