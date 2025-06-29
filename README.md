@@ -128,19 +128,19 @@ FlexiFlow/
 --- 
 
 ## 🧪 Testing
-Functional Testing: Postman & Swagger for backend API endpoints.
-Performance Testing: UI tested on low-end Android & web (Flutter).
-Responsiveness: Transition < 1s; API < 500ms.
-AI Evaluation: EULAR baseline transitions into behavior-aware personalized outputs.
+- Functional Testing: Postman & Swagger for backend API endpoints.
+- Performance Testing: UI tested on low-end Android & web (Flutter).
+- Responsiveness: Transition < 1s; API < 500ms.
+- AI Evaluation: EULAR baseline transitions into behavior-aware personalized outputs.
 
 --- 
 
 ## ✅ Doctor's Review
 Reviewed by Dr. Veena (MBBS, MD - Rheumatologist)
 ### Feedback Highlights:
-Appreciated the AI system for personalization.
-Suggested tracking Patient Global Assessment, blood reports, inflammation, and stiffness.
-Recommended weekly assessments and low-impact exercise emphasis.
+- Appreciated the AI system for personalization.
+- Suggested tracking Patient Global Assessment, blood reports, inflammation, and stiffness.
+- Recommended weekly assessments and low-impact exercise emphasis.
 
 ---
 
@@ -154,14 +154,14 @@ Recommended weekly assessments and low-impact exercise emphasis.
 ---
 
 ## 🔭 Future Scope
-Integration with wearables for real-time motion tracking.
-In-app chatbot and video-guided routines.
-Teleconsultation support and EHR integration.
-Offline access and multi-language support.
+- Integration with wearables for real-time motion tracking.
+- In-app chatbot and video-guided routines.
+- Teleconsultation support and EHR integration.
+- Offline access and multi-language support.
 
 ---
 
 ## 👥 Contributors
-Bhavika Gandham
-Nagasarapu Sarayu Krishna
-Trisha Vijayekkumaran
+- Bhavika Gandham
+- Nagasarapu Sarayu Krishna
+- Trisha Vijayekkumaran
