@@ -1,0 +1,31 @@
+id,name,joint,type,difficulty,arthritis_type,posture,tags,description
+1,Seated Knee Extension,knee,stretch,easy,OA,seated,"low-impact,quad-relief",Refer to app instructions for safe practice.
+2,Wrist Flexor Stretch,wrist,stretch,easy,RA,seated,"RA-friendly,typing-relief",Refer to app instructions for safe practice.
+3,Wall Push-Up,shoulder,strength,medium,SpA,standing,"upper-body,controlled",Refer to app instructions for safe practice.
+4,Ankle Circles,ankle,mobility,easy,all,seated,"balance,ROM",Refer to app instructions for safe practice.
+5,Finger Ladder Climb,hand,flexibility,easy,RA,seated,"fine-motor,RA-safe",Refer to app instructions for safe practice.
+6,Heel Slides,knee,mobility,easy,OA,lying,"post-op,recovery",Refer to app instructions for safe practice.
+7,Neck Side Bends,neck,stretch,easy,all,seated,"tension-relief,posture",Refer to app instructions for safe practice.
+8,Chair Stand,hip,strength,medium,OA,seated/standing,"lower-body,functional",Refer to app instructions for safe practice.
+9,Finger Squeeze with Ball,hand,strength,easy,RA,seated,"grip,strength",Refer to app instructions for safe practice.
+10,Shoulder Rolls,shoulder,mobility,easy,SpA,seated,"posture,relief",Refer to app instructions for safe practice.
+11,Towel Squeeze,hand,strength,easy,RA,seated,"fine-motor,grip",Refer to app instructions for safe practice.
+12,Heel-to-Toe Walk,ankle,balance,medium,OA,standing,fall-prevention,Refer to app instructions for safe practice.
+13,Seated Marching,hip,mobility,easy,all,seated,"core,RA-safe",Refer to app instructions for safe practice.
+14,Elbow Flexion & Extension,elbow,mobility,easy,RA,seated,joint-lubrication,Refer to app instructions for safe practice.
+15,Shoulder Blade Squeeze,shoulder,strength,medium,SpA,seated,posture,Refer to app instructions for safe practice.
+16,Standing Calf Raises,ankle,strength,medium,OA,standing,"leg-strength,balance",Refer to app instructions for safe practice.
+17,Toe Towel Curls,foot,strength,easy,OA,seated,"foot-arch,stability",Refer to app instructions for safe practice.
+18,Palm Up/Down Rotation,wrist,mobility,easy,RA,seated,forearm-relief,Refer to app instructions for safe practice.
+19,Cat-Cow Stretch,spine,mobility,medium,SpA,kneeling,"yoga,mobility",Refer to app instructions for safe practice.
+20,Standing Hip Abduction,hip,strength,medium,OA,standing,stability,Refer to app instructions for safe practice.
+21,Chin Tucks,neck,stretch,easy,all,seated,neck-posture,Refer to app instructions for safe practice.
+22,Tai Chi Arm Circles,shoulder,mobility,easy,SpA,standing,balance,Refer to app instructions for safe practice.
+23,Finger Extensions with Rubber Band,hand,strength,easy,RA,seated,resistance,Refer to app instructions for safe practice.
+24,Wall Angels,shoulder,mobility,medium,SpA,standing,"posture,yoga",Refer to app instructions for safe practice.
+25,Hamstring Stretch (Seated),knee,stretch,easy,OA,seated,leg-relief,Refer to app instructions for safe practice.
+26,Bridge Exercise,hip,strength,medium,OA,lying,"core,glute",Refer to app instructions for safe practice.
+27,Shoulder Pendulum Swing,shoulder,mobility,easy,RA,bent-forward,joint-relief,Refer to app instructions for safe practice.
+28,Step-Ups (Low Step),knee,strength,medium,OA,standing,"stairs,functional",Refer to app instructions for safe practice.
+29,Supine Knee-to-Chest,hip,stretch,easy,OA,lying,low-back,Refer to app instructions for safe practice.
+30,Hand Web Squeeze,hand,strength,easy,RA,seated,"grip-strength,rehab",Refer to app instructions for safe practice.
