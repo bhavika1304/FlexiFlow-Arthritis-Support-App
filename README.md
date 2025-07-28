@@ -1,5 +1,3 @@
-# FlexiFlow-Arthritis-Support-App
-
 # FlexiFlow 🧘‍♀️  
 **AI-Powered Personalized Support System for Arthritis Management**
 
